@@ -1,6 +1,8 @@
 # Option-Pricing
 Project Title: Analyzing the option pricing of NVDA stock
+
 Team Members: Kako Matsumoto 
+
 Tier Level: Beginner
 
 Tools:Python
